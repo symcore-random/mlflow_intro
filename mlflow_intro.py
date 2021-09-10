@@ -55,3 +55,14 @@ X = np.array([1, 2, 3, 4, 5, 6])
 y = np.array([3.1, 4.7, 7.2, 9.02, 11.1, 13.8])
 # logging in practice
 mlflow_parameters_logging(input_data=X, true_output_data=y, parameters=parameters)
+
+# In order to observe the results, run the following
+# command at your terminal (while being just outside
+# the mlruns/ directory):
+# mlflow ui
+
+######################################################
+### I believe there is much more to mlflow than    ###
+### what we have explored in this simple exercise, ###
+### however this is sufficient for starters.       ###
+######################################################
