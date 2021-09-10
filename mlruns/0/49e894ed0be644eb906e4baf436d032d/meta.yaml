@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kunumi/mlflow_intro/mlruns/0/49e894ed0be644eb906e4baf436d032d/artifacts
+end_time: 1631293742467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 49e894ed0be644eb906e4baf436d032d
+run_uuid: 49e894ed0be644eb906e4baf436d032d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631293742460
+status: 3
+tags: []
+user_id: kunumi
